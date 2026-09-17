@@ -53,7 +53,7 @@ class Solution {
                 str.substring(i + 1);
 
             // Recursive call
-            Permutation(
+            Permutation( 
                 newStr,
                 result,
                 perm + curr
